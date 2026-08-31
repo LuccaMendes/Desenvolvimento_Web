@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {}
+
+header {}
+
+header img {}
+
+header h1 {}
+
+header p {}
+
+nav{}
+
+nav a{}
+
+.conteudo{}
+
+.conteudo h2{}
+
+.conteudo .informacoes{}
+
+.conteudo .informacoes .caixa-esquerda{}
+
+.conteudo .informacoes .caixa-esquerda h3{}
+
+.conteudo .informacoes .caixa-esquerda p{}
+
+.conteudo .informacoes .caixa-direita h3{}
+
+.conteudo .informacoes .caixa-direita p{}
+
+.secao-cardapio{}
+
+.secao-cardapio h2{}
+
+.secao-cardapio p{}
+
+.secao-cardapio strong{}
+
+.secao-sobre-nos{}
+
+.secao-sobre-nos h2{}
+
+.secao-sobre-nos p{}
+
+.secao-contatos{}
+
+.secao-contatos h2{}
+
+.secao-contatos p{}
+
+.secao-contatos p strong{}
+
+footer{}
+
+footer p{}
