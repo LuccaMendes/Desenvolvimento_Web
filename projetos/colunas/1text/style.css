@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container_geral{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.bloco{
+    height: 100px;
+    background-color: purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
